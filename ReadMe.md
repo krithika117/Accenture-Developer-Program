@@ -1,4 +1,4 @@
-Accenture-Developer-Program
+Accenture-Nordic-Developer-Program
 
 This program is self-paced. It takes 2-3 hours to complete this Accenture Developer Program
 Accenture empowers you to be your best – professionally and personally. Coming from diverse backgrounds, at Accenture, we work together to solve our clients’ most challenging problems with leading-edge technologies. We are innovators that improve the way the world works and lives.
